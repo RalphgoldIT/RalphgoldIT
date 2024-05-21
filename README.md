@@ -8,9 +8,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/RalphgoldIT/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/RalphgoldIT/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Creating-A-StorageAccount](https://github.com/RalphgoldIT/Creating-A-StorageAccount)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/RalphgoldIT/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/RalphgoldIT/azure-network-protocols)
-  - Creating-A-StorageAccount
 
 
 <h2>🤳Connect with me:</h2>
