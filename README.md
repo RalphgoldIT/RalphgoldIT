@@ -11,7 +11,8 @@
   - [Creating-A-StorageAccount](https://github.com/RalphgoldIT/Creating-A-StorageAccount)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/RalphgoldIT/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/RalphgoldIT/azure-network-protocols)
-
+- <b>Using a virtual private network with Proton</b>
+  - [Shielding internet data worldwide via Azure's encryption protocols](https://github.com/RalphgoldIT/VPN)
 
 <h2>🤳Connect with me:</h2>
 
